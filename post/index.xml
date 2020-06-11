@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Quentin Ackermann</title>
+    <link>https://ackermannq.github.io/Portofolio/post/</link>
+    <description>Recent content in Projects on Quentin Ackermann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ackermannq.github.io/Portofolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2 : Bank targeting campaign</title>
+      <link>https://ackermannq.github.io/Portofolio/post/project-2/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ackermannq.github.io/Portofolio/post/project-2/</guid>
+      <description>Analyzed a dataset from a bank campaign to discover what elements may conduct a potential client to subscribe
+  Preprocess the data to make them relevant and algo-friendly !
+  Tried out different models to find the best fit :
+ Logistic Regression RandomForest KNN Decision Tree Bagging algorithm    Optimized the models using GridSearchCV
+  Built a tool that determine if a customer is likely to subscribe and how the bank can improve its campaign</description>
+    </item>
+    
+    <item>
+      <title>Project 1 : Covid19 Dataset</title>
+      <link>https://ackermannq.github.io/Portofolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ackermannq.github.io/Portofolio/post/project-1/</guid>
+      <description>Analyzed a Covid19 Dataset to understand the relation between the features and the target
+  Preprocess the data to make them relevant and algo-friendly !
+  Tried out different models to find the best fit :
+ RandomForest AdaBoost SVM KNN    Optimized the models using GridSearchCV
+  Built a tool that can sort out false positive/negative to predict if a person is infected</description>
+    </item>
+    
+  </channel>
+</rss>
