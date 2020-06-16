@@ -30,11 +30,9 @@
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ackermannq.github.io/Portofolio/post/project-1/</guid>
-      <description>Analyzed a Covid19 Dataset to understand the relation between the features and the target
-  Preprocess the data to make them relevant and algo-friendly !
+      <description>Analyzed a Covid19 Dataset to understand the relation between the features and the target    Vizualisation of the service the ill are oriented to, based on their Lymphocytes rate     Preprocess the data to make them relevant and algo-friendly
   Tried out different models to find the best fit :
- RandomForest AdaBoost SVM KNN    Optimized the models using GridSearchCV
-  Built a tool that can sort out false positive/negative to predict if a person is infected</description>
+ RandomForest AdaBoost SVM KNN    Optimized one of the models using GridSearchCV and RandomizedSearchCV</description>
     </item>
     
   </channel>
