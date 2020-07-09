@@ -4,27 +4,55 @@
   
   <url>
     <loc>https://ackermannq.github.io/Portofolio/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ackermannq.github.io/Portofolio/programmingpost/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ackermannq.github.io/Portofolio/programmingpost/project-1/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ackermannq.github.io/Portofolio/datasciencepost/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ackermannq.github.io/Portofolio/post/project-2/</loc>
+    <loc>https://ackermannq.github.io/Portofolio/datasciencepost/project-2/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ackermannq.github.io/Portofolio/post/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>https://ackermannq.github.io/Portofolio/hackingpost/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ackermannq.github.io/Portofolio/post/project-1/</loc>
+    <loc>https://ackermannq.github.io/Portofolio/datasciencepost/project-1/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ackermannq.github.io/Portofolio/hackingpost/project-1/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
