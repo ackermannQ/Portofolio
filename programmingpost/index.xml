@@ -6,13 +6,24 @@
     <description>Recent content in Programming on Quentin Ackermann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ackermannq.github.io/Portofolio/programmingpost/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Project 1 : Lunchz App</title>
+      <title>Project 2 : Redemption (C#/Unity)</title>
+      <link>https://ackermannq.github.io/Portofolio/programmingpost/project-2/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ackermannq.github.io/Portofolio/programmingpost/project-2/</guid>
+      <description>Created step-by-step a horror story    Welcome screen     Designed the levels of the game
+  Took a dive in game designing, which is an amazing field
+  It was really incredible to find out the complexity and the variety of work behind a game as simple as this one ! I have to admit that I won&amp;rsquo;t take lightly anymore the efforts made from the editors to provide the gamers with a wonderful experience !</description>
+    </item>
+    
+    <item>
+      <title>Project 1 : Lunchz App (Angular)</title>
       <link>https://ackermannq.github.io/Portofolio/programmingpost/project-1/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
